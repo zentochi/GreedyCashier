@@ -1,4 +1,4 @@
-i#include <iostream>
+#include <iostream>
 using namespace std;
 
 int get_nUang(void)                                          
